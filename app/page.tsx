@@ -19,6 +19,7 @@ export default function Home() {
           className="bg-slate-300 font-sans font-semibold text-lg text-black py-4 px-6 rounded-xl"
         >
           Crew ->
+          {/* this redirect to another route */}
         </button>
       </div>
     </div>
