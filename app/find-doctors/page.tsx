@@ -503,7 +503,7 @@ export default function FindDoctors() {
                         </p>
                         <div className="space-y-2">
                           <Button className="w-full" asChild>
-                            <Link href="/book-appointment">Book Appointment</Link>
+                            <Link href="/">Book Appointment</Link>
                           </Button>
                           <Button variant="outline" className="w-full">
                             View Profile

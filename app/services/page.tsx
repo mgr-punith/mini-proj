@@ -531,7 +531,7 @@ export default function Services() {
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Button size="lg" variant="secondary" asChild>
-              <Link href="/book-appointment">Book Appointment</Link>
+              <Link href="/">Book Appointment</Link>
             </Button>
             <Button size="lg" variant="outline" className="bg-transparent" asChild>
               <Link href="/contact">Contact Us</Link>
