@@ -9,11 +9,9 @@ Welcome to the **Doctors Online Consultation Platform**, a modern SaaS solution 
 ## 🛠 Tech Stack
 
 - **Frontend:** Next.js, React, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** PostgreSQL / MongoDB
+- **Backend:** Node.js
 - **Authentication:** NextAuth.js, JWT, OAuth
-- **Deployment:** Vercel, Docker
-- **Payments:** Stripe, PayPal
+- **Deployment:** Vercel
 
 ## 📖 Getting Started
 
